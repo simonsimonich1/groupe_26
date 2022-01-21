@@ -1,0 +1,8 @@
+{
+   "name":"Olga",
+   "status":"Padawan",
+   "device":{"RAM":8,
+             "Model":"HP Pavilion",
+             "price":1000}
+}
+
